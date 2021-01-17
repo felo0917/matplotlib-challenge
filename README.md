@@ -1,4 +1,4 @@
-# matplotlib-challenge
+# matplotlib-project
 
 ## Instructions
 Before beginning the analysis, check the data for duplicate mice and remove any data associated with that mouse ID.
